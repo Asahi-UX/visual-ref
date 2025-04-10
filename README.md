@@ -3,12 +3,9 @@
 **Содержание репозитория**
 
 **Файлы кода (.ipynb):**
-
-Matplotlib.ipynb - примеры визуализации с использованием библиотеки Matplotlib
-
-Pandas.ipynb - создание графиков с помощью встроенных методов Pandas
-
-Seaborn_and_Plotly.ipynb - примеры графиков с использованием Seaborn и Plotly
+Matplotlib.ipynb - примеры визуализации с использованием библиотеки Matplotlib.
+Pandas.ipynb - создание графиков с помощью встроенных методов Pandas.
+Seaborn_and_Plotly.ipynb - примеры графиков с использованием Seaborn и Plotly.
 
 
 **Наборы данных (.csv):**
